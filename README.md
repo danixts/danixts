@@ -68,6 +68,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Atlas](https://img.shields.io/badge/Atlas_Migrations-0D1117?style=flat-square&logo=go&logoColor=white)
 
 **Mensajería e integración**
 
