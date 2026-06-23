@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6E40C9&center=true&vCenter=true&width=620&lines=%2B8+a%C3%B1os+construyendo+software+en+producci%C3%B3n;Backend+s%C3%B3lido+en+Go+y+Python;IA+generativa%2C+agentes+y+RAG;Plataformas+cloud+que+escalan" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6E40C9&center=true&vCenter=true&width=620&lines=%2B8+a%C3%B1os+construyendo+software+en+producci%C3%B3n;Backend+en+Go%2C+Java%2C+Spring+Boot+y+Quarkus;IA+generativa%2C+agentes+y+RAG;Plataformas+cloud+que+escalan" alt="typing"/>
 </p>
 
 <p align="center">
