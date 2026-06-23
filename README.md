@@ -26,6 +26,7 @@
 
 - 🏗️ **Arquitecto de Software** — diseño arquitecturas end-to-end multi-tenant, defino límites de dominio y estándares técnicos.
 - 🤖 **IA generativa** — motores de agentes con orquestación multi-modelo (OpenAI, Anthropic Claude, Google Gemini), RAG, memoria y herramientas.
+- ☁️ **AWS serverless a escala** — plataformas event-driven con cientos de Lambdas, API Gateway, Step Functions y SQS/SNS en producción para clientes regionales.
 - 🏦 **Experiencia regional** — productos en producción para banca, SaaS y telecomunicaciones en LATAM.
 - 🧩 Combino backend sólido con frontend moderno y ecosistemas cloud (AWS, Azure, Hetzner/Kubernetes).
 
@@ -77,9 +78,21 @@
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Cloud y DevOps**
+**AWS** (serverless event-driven)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step_Functions-FF4F8B?style=flat-square&logo=awslambda&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-E7157B?style=flat-square&logo=amazonsns&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![SES](https://img.shields.io/badge/SES-DD344C?style=flat-square&logo=amazonsimpleemailservice&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![SAM](https://img.shields.io/badge/SAM_/_CloudFormation-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless_Framework-FD5750?style=flat-square&logo=serverless&logoColor=white)
+
+**DevOps & infra**
+
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD_GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white)
