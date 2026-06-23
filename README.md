@@ -1,13 +1,13 @@
 <h1 align="center">¡Hola! Soy Daniel Vila Miranda 👋</h1>
 
 <p align="center">
-  <b>Software Architect & Full-Stack Engineer</b> · +8 años · Sistemas distribuidos, microservicios e IA generativa
+  <b>Full-Stack Engineer</b> · +8 años · Backend, IA generativa y cloud
 </p>
 
 <p align="center">
-  Diseño y construyo plataformas digitales para <b>banca</b>, <b>SaaS</b> y <b>telco</b>.
-  Microservicios orientados a eventos en <b>Go</b>, servicios de IA/RAG en <b>Python</b>,
-  y frontends modernos con <b>React</b>, <b>Next.js</b> y <b>TypeScript</b>.
+  Construyo plataformas digitales para <b>banca</b> y <b>SaaS</b>.
+  Backend en <b>Go</b> y <b>Python</b>, servicios de IA, y frontends modernos con
+  <b>React</b>, <b>Next.js</b> y <b>TypeScript</b>.
 </p>
 
 <p align="center">
@@ -24,11 +24,10 @@
 
 ### 👨‍💻 Sobre mí
 
-- 🏗️ **Arquitecto de Software** — diseño arquitecturas end-to-end multi-tenant, defino límites de dominio y estándares técnicos.
-- 🤖 **IA generativa** — motores de agentes con orquestación multi-modelo (OpenAI, Anthropic Claude, Google Gemini), RAG, memoria y herramientas.
-- ☁️ **AWS serverless a escala** — plataformas event-driven con cientos de Lambdas, API Gateway, Step Functions y SQS/SNS en producción para clientes regionales.
-- 🏦 **Experiencia regional** — productos en producción para banca, SaaS y telecomunicaciones en LATAM.
-- 🧩 Combino backend sólido con frontend moderno y ecosistemas cloud (AWS, Azure, Hetzner/Kubernetes).
+- 💻 Backend en **Go**, **Python**, **Java** y **Node.js**, y frontends con **React** / **Next.js**.
+- 🤖 Trabajo con **IA generativa**: agentes, RAG y modelos de OpenAI, Claude y Gemini.
+- ☁️ Conocimientos sólidos en **AWS** y serverless, además de **Kubernetes**.
+- 🏦 Productos en producción para **banca** y **SaaS** en LATAM.
 
 ---
 
@@ -64,6 +63,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 
 **Mensajería e integración**
 
@@ -71,6 +72,10 @@
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![KrakenD](https://img.shields.io/badge/KrakenD-0095C8?style=flat-square&logo=krakend&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets_/_SSE-444444?style=flat-square&logo=socketdotio&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=swagger&logoColor=white)
 
 **Frontend**
 
@@ -79,6 +84,8 @@
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
 
 **AWS** (serverless event-driven)
 
@@ -97,9 +104,19 @@
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD_GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Observabilidad**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=white)
+![Tempo](https://img.shields.io/badge/Tempo-FF6B35?style=flat-square&logo=grafana&logoColor=white)
 
 ---
 
