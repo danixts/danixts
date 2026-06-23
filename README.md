@@ -49,6 +49,7 @@
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white)
 ![Hexagonal](https://img.shields.io/badge/Arquitectura_Hexagonal-6E40C9?style=flat-square)
 ![Microservicios](https://img.shields.io/badge/Microservicios_Event--Driven-FF6B6B?style=flat-square)
 ![DDD](https://img.shields.io/badge/DDD_/_Clean_Arch-2b2d42?style=flat-square)
