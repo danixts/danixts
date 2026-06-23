@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6E40C9&center=true&vCenter=true&width=620&lines=%2B8+a%C3%B1os+construyendo+software+en+producci%C3%B3n;Backend+en+Go%2C+Java%2C+Spring+Boot+y+Quarkus;IA+generativa%2C+agentes+y+RAG;Plataformas+cloud+que+escalan" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6E40C9&center=true&vCenter=true&width=620&lines=%2B8+a%C3%B1os+construyendo+software+en+producci%C3%B3n;Backend+en+Go+%C2%B7+Java+%C2%B7+Spring+Boot+y+Quarkus;IA+generativa+%C2%B7+agentes+y+RAG;Plataformas+cloud+que+escalan" alt="typing"/>
 </p>
 
 <p align="center">
@@ -128,7 +128,6 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=danixts&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite&title_color=2b2d42&icon_color=6E40C9&text_color=333333" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danixts&layout=compact&hide_border=true&langs_count=8&theme=graywhite&title_color=2b2d42&text_color=333333" alt="lenguajes"/>
 </p>
 
 <p align="center">
