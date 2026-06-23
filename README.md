@@ -1,13 +1,16 @@
-<h1 align="center">¡Hola! Soy Daniel Vila Miranda 👋</h1>
-
 <p align="center">
-  <b>Full-Stack Engineer</b> · +8 años · Backend, IA generativa y cloud
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2b2d42&height=180&section=header&text=Daniel%20Vila%20Miranda&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Backend%20%C2%B7%20IA%20generativa%20%C2%B7%20Cloud&descAlignY=58&descSize=18&animation=fadeIn" alt="banner"/>
 </p>
 
 <p align="center">
-  Construyo plataformas digitales para <b>banca</b> y <b>SaaS</b>.
-  Backend en <b>Go</b> y <b>Python</b>, servicios de IA, y frontends modernos con
-  <b>React</b>, <b>Next.js</b> y <b>TypeScript</b>.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6E40C9&center=true&vCenter=true&width=620&lines=%2B8+a%C3%B1os+construyendo+software+en+producci%C3%B3n;Backend+s%C3%B3lido+en+Go+y+Python;IA+generativa%2C+agentes+y+RAG;Plataformas+cloud+que+escalan" alt="typing"/>
+</p>
+
+<p align="center">
+  Diseño y construyo plataformas para <b>banca</b> y <b>SaaS</b>, del backend al frontend.<br/>
+  APIs y microservicios en <b>Go</b> y <b>Python</b>, servicios de <b>IA generativa</b>,
+  y experiencias web rápidas con <b>React</b>, <b>Next.js</b> y <b>TypeScript</b>.<br/>
+  Foco en código limpio, sistemas que escalan y resolver problemas reales de negocio.
 </p>
 
 <p align="center">
