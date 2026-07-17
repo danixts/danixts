@@ -133,7 +133,12 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danixts&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&theme=graywhite&title_color=2b2d42&icon_color=6E40C9&text_color=333333" alt="stats"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danixts&theme=github" alt="stats"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danixts&theme=github&utcOffset=-5" alt="productive-time"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danixts&bg_color=ffffff&color=2b2d42&line=6E40C9&point=6E40C9&area_color=6E40C9&area=true&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="activity-graph"/>
 </p>
 
 ---
