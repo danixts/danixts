@@ -127,11 +127,13 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danixts&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite&title_color=2b2d42&icon_color=6E40C9&text_color=333333" alt="stats"/>
+  <img src="https://img.shields.io/github/followers/danixts?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&color=2b2d42" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/danixts?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=6E40C9" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=danixts&style=for-the-badge&color=6E40C9&label=Visitas" alt="visitas"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=danixts&hide_border=true&theme=graywhite&ring=6E40C9&fire=FF6B6B&currStreakLabel=2b2d42&locale=es" alt="streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danixts&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&theme=graywhite&title_color=2b2d42&icon_color=6E40C9&text_color=333333" alt="stats"/>
 </p>
 
 ---
